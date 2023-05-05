@@ -1,4 +1,5 @@
 package m1.examen_final.tache2;
+import m1.examen_final.rendu.tache2.Orange;
 
 public class Exo2a {
     public static void main(String[] args) {

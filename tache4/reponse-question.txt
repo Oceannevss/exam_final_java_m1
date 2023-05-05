@@ -5,6 +5,13 @@ Donnez les avantages d'utilisation du Cloud
 Le cloud permet d'avoir plus d'espace de stockage et nous evite de gerer nous meme les serveurs, c'est donc un gain d'argent.
 
 C'est quoi le Network Adress Translation (NAT) ?
-Quels sont les différents type de NAT. Illustrez vos explication via des déssin à la main. Vous mettrez des images dans ce package.
+NAT permet de modifier les adresse IP privé en adresse IP publique.
+
+Quels sont les différents type de NAT.
+Illustrez vos explication via des déssin à la main. Vous mettrez des images dans ce package.
+Il y a le statique, le dynamique et le pat.
+
 Quels sont les service amazon web services que vous connaissez ? Que font-ils ?
+EC2 c'est les machines virtuelles
+
 Dunkan à la maison accède à la série Rabbit Hole sur la plateforme de vidéo en ligne Paramount+. Expliquez le processus NAT Port Adress Translation montrant le traffic depuis la rêquete pour récupérer la vidéo jusqu'à l'apparition sur son écran Illustrez vos explication au travers de schemas.
